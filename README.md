@@ -21,3 +21,5 @@ Se evaluaron la  información como los ingresos, las categorías más vendidas, 
 Al final se presenta una recomendacion basada en el analisis de datos obtenidos.
 
 
+Este analisis fue elaborado por Edgar Alexander Constanza Jovel, analista de datos Jr.
+
